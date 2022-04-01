@@ -2,4 +2,9 @@ extends layout
 
 block content
   h1= title
-  p Welcome to #{title}
+  
+  a(class='button' href='layout') Press me
+  br
+  - var btnType = 'primary'
+  - var btnSize = 'lg'
+  button(type='button' class='btn btn-' + btnType + ' btn-' + btnSize) Button
