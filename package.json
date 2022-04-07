@@ -13,8 +13,16 @@
     "morgan": "^1.10.0",
     "pug": "^3.0.2"
   },
+  "description": "this is Readme page",
   "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saibabu369/s2wb49devarapalli.git"
+  },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "bugs": {
+    "url": "https://github.com/saibabu369/s2wb49devarapalli/issues"
+  },
+  "homepage": "https://github.com/saibabu369/s2wb49devarapalli#readme"
 }
